@@ -1,5 +1,12 @@
 public class contaTerminal {
     public static void main(String[] args) {
-        System.out.println("Olá Mundo!!");
+        
+        int contaUser = 0; 
+        String nomeUser = "Vitor Gobbo";
+        int agenciaUser = 1;
+        double saldoUser = 1000.00;
+
+        
+
     }
 }
